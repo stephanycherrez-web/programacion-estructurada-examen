@@ -1,0 +1,23 @@
+[
+    {
+        "sku": "P001",
+        "nombre": "Teclado",
+        "precio": 25.0,
+        "stock": 5,
+        "categoria": "Accesorios"
+    },
+    {
+        "sku": "P002",
+        "nombre": "Mouse",
+        "precio": 15.0,
+        "stock": 8,
+        "categoria": "Acessorios"
+    },
+    {
+        "sku": "P003",
+        "nombre": "Monitor",
+        "precio": 12.0,
+        "stock": 3,
+        "categoria": "Pantallas"
+    }
+]
